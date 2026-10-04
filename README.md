@@ -7,7 +7,7 @@ My [Obsidian](https://obsidian.md) vault configuration — community plugins, se
 **Option 1 — Clone as your vault (easiest):**
 
 ```bash
-git clone https://github.com/HughLyell/obsidian-setup.git MyVault
+git clone https://github.com/HughLyell/obsidian-community-plugins.git MyVault
 ```
 
 Then open `MyVault` as a vault in Obsidian. Plugins will load automatically.
@@ -15,6 +15,29 @@ Then open `MyVault` as a vault in Obsidian. Plugins will load automatically.
 **Option 2 — Copy into an existing vault:**
 
 Copy the `.obsidian` folder into your vault root (replace/merge), then restart Obsidian.
+
+## Community plugins
+
+18 plugins, alphabetically:
+
+- Advanced Canvas
+- Agent Client
+- Better Export PDF
+- Canvas Mindmap
+- Charts
+- Charts View
+- Editing Toolbar
+- Excalidraw
+- Iconize
+- Image Converter
+- Omnisearch
+- Office Reader
+- PDF++
+- Quiz Generator
+- Smart Typography
+- Spaced Repetition
+- Style Settings
+- Voice
 
 ## What's inside
 
