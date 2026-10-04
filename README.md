@@ -18,7 +18,7 @@ Copy the `.obsidian` folder into your vault root (replace/merge), then restart O
 
 ## Community plugins
 
-18 plugins, alphabetically:
+18 plugins:
 
 - Advanced Canvas
 - Agent Client
