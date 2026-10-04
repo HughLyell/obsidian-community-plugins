@@ -1,0 +1,502 @@
+{
+  "presetAgents": {
+    "claude-code-acp": {
+      "id": "claude-code-acp",
+      "displayName": "Claude Code",
+      "apiKeySecretId": "",
+      "command": "claude-agent-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "codex-acp": {
+      "id": "codex-acp",
+      "displayName": "Codex",
+      "apiKeySecretId": "",
+      "command": "codex-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "gemini-cli": {
+      "id": "gemini-cli",
+      "displayName": "Gemini CLI",
+      "apiKeySecretId": "",
+      "command": "gemini",
+      "args": [
+        "--experimental-acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "mistral-vibe": {
+      "id": "mistral-vibe",
+      "displayName": "Mistral Vibe",
+      "apiKeySecretId": "",
+      "command": "vibe-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "opencode": {
+      "id": "opencode",
+      "displayName": "OpenCode",
+      "apiKeySecretId": "",
+      "command": "/usr/bin/opencode",
+      "args": [
+        "acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "kiro-cli": {
+      "id": "kiro-cli",
+      "displayName": "Kiro",
+      "apiKeySecretId": "",
+      "command": "kiro-cli",
+      "args": [
+        "acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "hermes-agent": {
+      "id": "hermes-agent",
+      "displayName": "Hermes Agent",
+      "apiKeySecretId": "",
+      "command": "hermes",
+      "args": [
+        "acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "pi-acp": {
+      "id": "pi-acp",
+      "displayName": "Pi",
+      "apiKeySecretId": "",
+      "command": "pi-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "grok-build": {
+      "id": "grok-build",
+      "displayName": "Grok Build",
+      "apiKeySecretId": "",
+      "command": "grok",
+      "args": [
+        "agent",
+        "stdio"
+      ],
+      "env": [],
+      "enabled": true
+    }
+  },
+  "customAgents": [],
+  "defaultAgentId": "opencode",
+  "autoAllowPermissions": false,
+  "autoMentionActiveNote": true,
+  "expandWikilinkContext": true,
+  "enableSystemNotifications": true,
+  "promptInjection": {
+    "enabled": true,
+    "latex": true,
+    "wikiLinks": true,
+    "tables": true
+  },
+  "debugMode": false,
+  "nodePath": "",
+  "exportSettings": {
+    "defaultFolder": "OpenCode",
+    "filenameTemplate": "agent_client_{date}_{time}",
+    "autoExportOnNewChat": false,
+    "autoExportOnCloseChat": false,
+    "openFileAfterExport": true,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "Agent Client",
+    "includeAudios": true,
+    "audioLocation": "obsidian",
+    "audioCustomFolder": "Agent Client",
+    "frontmatterTag": "agent-client"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "chatViewLocation": "right-split",
+  "displaySettings": {
+    "autoCollapseDiffs": false,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000,
+    "showEmojis": true,
+    "fontSize": null
+  },
+  "savedSessions": [
+    {
+      "sessionId": "ses_ef8ca7da5ffed92sRlxiW0k7sQ",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "is there a file (or files) for obsidian that is...",
+      "createdAt": "2026-10-04T13:59:14.877Z",
+      "updatedAt": "2026-10-04T13:59:15.700Z"
+    },
+    {
+      "sessionId": "ses_ef8d81a95ffeaFproEanElyYBD",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "is there a file (or files) for obsidian that is...",
+      "createdAt": "2026-10-04T13:44:45.973Z",
+      "updatedAt": "2026-10-04T13:44:45.973Z"
+    },
+    {
+      "sessionId": "ses_ef8eeb43fffeLV4BaZMPZu1x1X",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "is there a file (or files) for obsidian that is...",
+      "createdAt": "2026-10-04T13:27:55.911Z",
+      "updatedAt": "2026-10-04T13:43:35.357Z"
+    },
+    {
+      "sessionId": "ses_f046c932effeeHhQVyrTCfqOz5",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "I am the head boy of my school and i need my gr...",
+      "createdAt": "2026-10-02T07:54:26.509Z",
+      "updatedAt": "2026-10-02T07:56:27.374Z"
+    },
+    {
+      "sessionId": "ses_f08c36330ffevSGx9kVAbkm3xQ",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you convert the photo of my current grades ...",
+      "createdAt": "2026-10-01T11:33:57.202Z",
+      "updatedAt": "2026-10-01T12:12:35.365Z"
+    },
+    {
+      "sessionId": "ses_f39208f7bffePQcVN6HCDS09sf",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "make a network graph of this network. add subst...",
+      "createdAt": "2026-09-22T02:09:53.541Z",
+      "updatedAt": "2026-09-22T02:09:53.550Z"
+    },
+    {
+      "sessionId": "ses_f3e86b7a7ffeqRx5CF91oW5sIt",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "obsidian://open?vault=obsidian_vault&file=South...",
+      "createdAt": "2026-09-21T01:02:20.141Z",
+      "updatedAt": "2026-09-21T01:02:59.056Z"
+    },
+    {
+      "sessionId": "ses_f52d2c280ffejIkWz1zH16a0My",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "is this correct",
+      "createdAt": "2026-09-17T02:24:02.077Z",
+      "updatedAt": "2026-09-17T02:29:38.546Z"
+    },
+    {
+      "sessionId": "ses_f5af54482ffeWwag6CiGXJIKTZ",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "make sure these open book notes contain everyth...",
+      "createdAt": "2026-09-15T23:21:01.242Z",
+      "updatedAt": "2026-09-15T23:49:57.734Z"
+    },
+    {
+      "sessionId": "ses_f5c3a2f0effeF4DsaqmP0eHMjm",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you make these question better by making th...",
+      "createdAt": "2026-09-15T06:37:01.628Z",
+      "updatedAt": "2026-09-15T07:58:40.710Z"
+    },
+    {
+      "sessionId": "ses_f5cdfc71affeBIm04wZTph9w7Q",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "do i have any obsidian plugins that affect the ...",
+      "createdAt": "2026-09-15T03:34:32.641Z",
+      "updatedAt": "2026-09-15T03:34:32.647Z"
+    },
+    {
+      "sessionId": "ses_f5cf92432ffes7RTFJIC1ofFGf",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "could you make flashcards for these study notes...",
+      "createdAt": "2026-09-15T03:08:22.826Z",
+      "updatedAt": "2026-09-15T03:08:26.231Z"
+    },
+    {
+      "sessionId": "ses_f629f8bdbffeZ3p27528cwXHCe",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you get me all curtin uni scholarships that...",
+      "createdAt": "2026-09-14T01:02:14.522Z",
+      "updatedAt": "2026-09-14T01:10:47.674Z"
+    },
+    {
+      "sessionId": "ses_f62ab4818ffe551bP37gFMqF40",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you make a word .docx file of these openboo...",
+      "createdAt": "2026-09-14T00:36:12.793Z",
+      "updatedAt": "2026-09-14T00:36:12.804Z"
+    },
+    {
+      "sessionId": "ses_f71b896abffeVAGYXS1w4FDGgb",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "Can you make entire notes teaching me how to do...",
+      "createdAt": "2026-09-11T03:17:06.529Z",
+      "updatedAt": "2026-09-11T06:52:13.598Z"
+    },
+    {
+      "sessionId": "ses_f7bb11a73ffeiP8RbS78YkNg6q",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "convert all of the psudocode into python code",
+      "createdAt": "2026-09-09T03:56:51.771Z",
+      "updatedAt": "2026-09-10T01:52:45.263Z"
+    },
+    {
+      "sessionId": "ses_f8578d29effebdir1ExMLV0L8y",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "use quiz generator plugin markdown to make a mu...",
+      "createdAt": "2026-09-07T06:29:14.366Z",
+      "updatedAt": "2026-09-07T06:33:59.665Z"
+    },
+    {
+      "sessionId": "ses_f86b7f63effeRQyhyZcOAMXHp4",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "make a note with everything i need to know for ...",
+      "createdAt": "2026-09-07T01:04:39.390Z",
+      "updatedAt": "2026-09-07T01:12:42.553Z"
+    },
+    {
+      "sessionId": "ses_f951bfc40ffeX67Q5WJC1vbgoH",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you get me ALL of the controls for my hyprl...",
+      "createdAt": "2026-09-04T05:32:39.477Z",
+      "updatedAt": "2026-09-04T05:32:47.531Z"
+    },
+    {
+      "sessionId": "ses_f9f9fac37ffeYEVEqQu5ZGzJ5i",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you add a mitigation dotpoint for all of th...",
+      "createdAt": "2026-09-03T02:01:44.786Z",
+      "updatedAt": "2026-09-03T02:22:27.386Z"
+    },
+    {
+      "sessionId": "ses_fa9792ea7ffeebxeOA4mq1Fd4d",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "see if you can improve any of my computer scien...",
+      "createdAt": "2026-08-31T06:46:40.841Z",
+      "updatedAt": "2026-09-01T02:16:53.184Z"
+    },
+    {
+      "sessionId": "ses_fa98cf37bffe04UMurYnCQmITe",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you make complete notes of topics 7 to 11 i...",
+      "createdAt": "2026-08-31T06:24:29.964Z",
+      "updatedAt": "2026-08-31T06:24:29.975Z"
+    },
+    {
+      "sessionId": "ses_fb8f8f75fffehu0EbMeNHjbU96",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you make note in South Coast Baptist Colleg...",
+      "createdAt": "2026-08-29T15:17:08.101Z",
+      "updatedAt": "2026-08-29T15:19:07.178Z"
+    },
+    {
+      "sessionId": "ses_fb903a21cffe2CL4W94hUdUMMa",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you get all of the flashcards in South Coas...",
+      "createdAt": "2026-08-28T06:17:05.130Z",
+      "updatedAt": "2026-08-28T06:19:35.772Z"
+    },
+    {
+      "sessionId": "ses_fc366cd7dffew55hwrLxrpfPR5",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "Can you complete this task and avoid using obsi...",
+      "createdAt": "2026-08-26T05:55:00.904Z",
+      "updatedAt": "2026-08-26T15:30:53.253Z"
+    },
+    {
+      "sessionId": "ses_fc3719dc0ffegYMpcFkar7ZSJb",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "copy everything from https://en.wikipedia.org/w...",
+      "createdAt": "2026-08-26T05:43:08.636Z",
+      "updatedAt": "2026-08-26T05:43:13.576Z"
+    },
+    {
+      "sessionId": "ses_fc3744f60ffe8lKphh3FRU8hMK",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "keep all of the question points but remove the ...",
+      "createdAt": "2026-08-26T05:32:14.664Z",
+      "updatedAt": "2026-08-26T05:32:14.666Z"
+    },
+    {
+      "sessionId": "ses_fc375d1fdffeninU7ggBkUrSIT",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "remove all of the answers so it is a fresh task...",
+      "createdAt": "2026-08-26T05:29:11.801Z",
+      "updatedAt": "2026-08-26T05:29:11.803Z"
+    },
+    {
+      "sessionId": "ses_fc93fda39ffep5R0GjEk27lcIC",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "Add writeups for how to do all the questions in...",
+      "createdAt": "2026-08-25T05:46:28.811Z",
+      "updatedAt": "2026-08-25T05:46:35.572Z"
+    },
+    {
+      "sessionId": "ses_fcbd532b5ffeWfNuNEd6pNqb4n",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "what is (Armstrong et al. 2017) — https://ebook...",
+      "createdAt": "2026-08-24T14:27:59.889Z",
+      "updatedAt": "2026-08-24T14:32:27.729Z"
+    },
+    {
+      "sessionId": "ses_fcd181b11ffex4tSTtEG6Jqrb4",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you write this statement which ill be sendi...",
+      "createdAt": "2026-08-24T10:48:48.016Z",
+      "updatedAt": "2026-08-24T10:52:07.438Z"
+    },
+    {
+      "sessionId": "ses_fd675e44fffexLtTmvJjga5YRb",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "complete this task for me. do not read any of t...",
+      "createdAt": "2026-08-22T13:04:56.508Z",
+      "updatedAt": "2026-08-22T13:06:33.761Z"
+    },
+    {
+      "sessionId": "ses_fe3095fccffeKOPzqsTY0XNmIS",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "South Coast Baptist College/2026/Computer Scien...",
+      "createdAt": "2026-08-22T12:54:53.455Z",
+      "updatedAt": "2026-08-22T12:54:54.178Z"
+    },
+    {
+      "sessionId": "ses_fe327bfacffesoqKrzpCbdrioS",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you complete this task using an academic st...",
+      "createdAt": "2026-08-20T02:04:32.699Z",
+      "updatedAt": "2026-08-20T02:06:13.441Z"
+    },
+    {
+      "sessionId": "ses_fe770115affeRGDt466wisxyTd",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you complete this task using academic sourc...",
+      "createdAt": "2026-08-20T01:27:16.197Z",
+      "updatedAt": "2026-08-20T01:27:16.202Z"
+    },
+    {
+      "sessionId": "ses_fed6102e3ffeH72B9jQ04sRc3O",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "in \"South Coast Baptist College/2026/Computer S...",
+      "createdAt": "2026-08-18T02:25:56.767Z",
+      "updatedAt": "2026-08-24T06:41:11.563Z"
+    },
+    {
+      "sessionId": "ses_010eae517ffeshImFxBlpnsaPC",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you expand on the security solutions like h...",
+      "createdAt": "2026-08-13T01:48:24.898Z",
+      "updatedAt": "2026-08-13T01:48:24.903Z"
+    },
+    {
+      "sessionId": "ses_0117d6bdfffeD4R5Uf1WEeeQ7I",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you expand on all of the network threats by...",
+      "createdAt": "2026-08-11T01:50:31.502Z",
+      "updatedAt": "2026-08-11T01:50:31.505Z"
+    },
+    {
+      "sessionId": "ses_01591a369ffeJ1pl5jgUZWz5WL",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "obsidian://open?vault=obsidian_vault&file=Perso...",
+      "createdAt": "2026-08-10T06:51:13.742Z",
+      "updatedAt": "2026-08-10T06:51:13.744Z"
+    },
+    {
+      "sessionId": "ses_015b58024ffeptWp6jD4s4VlNZ",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "what should i charge a month in AUD for each ti...",
+      "createdAt": "2026-08-10T06:47:54.008Z",
+      "updatedAt": "2026-08-10T06:47:54.018Z"
+    },
+    {
+      "sessionId": "ses_018f87fa9ffeTI2bK0LlwgLHbs",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you tidy up my notes",
+      "createdAt": "2026-08-09T14:59:49.158Z",
+      "updatedAt": "2026-08-09T23:29:16.560Z"
+    },
+    {
+      "sessionId": "ses_018fb5d20ffenPz1XF1oGQddvl",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "@[[Topic 2 - Demand and Supply]] can you comple...",
+      "createdAt": "2026-08-09T14:54:55.151Z",
+      "updatedAt": "2026-08-09T14:54:55.154Z"
+    },
+    {
+      "sessionId": "ses_01ddb79cdffefaLh40vAQktWU9",
+      "agentId": "opencode",
+      "cwd": "/home/hugh/Obsidian/obsidian_vault",
+      "title": "can you summarize the long info to make it easi...",
+      "createdAt": "2026-08-08T16:12:20.947Z",
+      "updatedAt": "2026-08-09T14:54:07.443Z"
+    }
+  ],
+  "lastUsedModels": {
+    "opencode": "zai/glm-5.3-flashx"
+  },
+  "lastUsedModes": {},
+  "lastUsedConfigOptions": {
+    "opencode": {
+      "effort": "high"
+    }
+  },
+  "sessionHistoryFilters": {
+    "currentVaultOnly": true,
+    "hideNonLocal": false
+  },
+  "enableFloatingChat": false,
+  "floatingButtonImage": "",
+  "floatingWindowSize": {
+    "width": 400,
+    "height": 500
+  },
+  "floatingWindowPosition": null,
+  "floatingButtonPosition": null
+}

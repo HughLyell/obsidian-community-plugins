@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "common": {
+    "language": "en",
+    "defaultZoomPercent": 100,
+    "largeFileWarningMb": 25
+  },
+  "docx": {
+    "defaultFitWidth": true,
+    "showOutlineByDefault": false,
+    "enableImagePreview": true
+  },
+  "pptx": {
+    "defaultFitWindow": true,
+    "showNavigationByDefault": true,
+    "showNotesByDefault": false
+  },
+  "xlsx": {
+    "defaultFitWidth": true
+  },
+  "readingStates": [
+    {
+      "path": "South Coast Baptist College/2026/Physics/Practice Tests/Electromagnetism/EM practice test 2.docx",
+      "mtime": 1787635259151,
+      "format": "docx",
+      "lastAccessed": 99,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 774.4000244140625
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Physics/Practice Tests/Electromagnetism/Electromagnetism practice test ANSWERS.docx",
+      "mtime": 1787635259141,
+      "format": "docx",
+      "lastAccessed": 408,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 2872.800048828125
+      },
+      "zoom": {
+        "scale": 1.05,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Academic Writing/Assessments/lyell_hugh_24132592_PWRP0001_Assessment2_2026.docx",
+      "mtime": 1787743538153,
+      "format": "docx",
+      "lastAccessed": 1217,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 5984.7998046875
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Commerce/Task/A2 Exemplar.docx",
+      "mtime": 1787754743799,
+      "format": "docx",
+      "lastAccessed": 1621,
+      "position": {
+        "scrollLeft": 110.4000015258789,
+        "scrollTop": 3733.60009765625
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Academic Writing/Assessments/lyell_hugh_24132592_PWRP0001_Assessment1_2026.docx",
+      "mtime": 1787743494149,
+      "format": "docx",
+      "lastAccessed": 1833,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Communication/Assesments/lyell_hugh_24132592_COMS_A1_2026.docx",
+      "mtime": 1787743603488,
+      "format": "docx",
+      "lastAccessed": 2542,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Commerce/Topic reading material/MGMT TOPIC7_ContractLaw.docx",
+      "mtime": 1788137608514,
+      "format": "docx",
+      "lastAccessed": 2612,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 605.8333129882812
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Commerce/Topic reading material/MGMT TOPIC10_Cash Budgeting.docx",
+      "mtime": 1788137601641,
+      "format": "docx",
+      "lastAccessed": 2616,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 52.581363677978516
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Commerce/Topic reading material/MGMT TOPIC11_FinancialReporting.docx",
+      "mtime": 1788137601649,
+      "format": "docx",
+      "lastAccessed": 2618,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Uniready/Commerce/Commerce Exam - Open Book Sheet.docx",
+      "mtime": 1789515169964,
+      "format": "docx",
+      "lastAccessed": 4500,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 2535.833251953125
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "South Coast Baptist College/2026/Leadership/Last Speech Cameron.docx",
+      "mtime": 1790926779877,
+      "format": "docx",
+      "lastAccessed": 4629,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 190
+      },
+      "zoom": {
+        "scale": 0.6000000000000001,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    }
+  ]
+}

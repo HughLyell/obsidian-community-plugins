@@ -1,0 +1,11 @@
+# Device-specific / regenerated constantly
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/icons/
+
+# Personal data: AI chat session transcripts
+.obsidian/plugins/agent-client/sessions/
+
+# Trash
+.trash/
