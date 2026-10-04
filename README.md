@@ -1,6 +1,6 @@
-# Obsidian Setup
+# Obsidian Community Plugins
 
-My [Obsidian](https://obsidian.md) vault configuration — community plugins, settings, and theme setup — published so it can be replicated.
+My [Obsidian](https://obsidian.md) vault configuration — community plugins and settings, ready to clone and replicate.
 
 ## How to use
 
