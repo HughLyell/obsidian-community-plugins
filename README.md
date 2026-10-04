@@ -21,7 +21,7 @@ Copy the `.obsidian` folder into your vault root (replace/merge), then restart O
 18 plugins:
 
 - Advanced Canvas
-- Agent Client
+- Agent Client (I use opencode)
 - Better Export PDF
 - Canvas Mindmap
 - Charts
